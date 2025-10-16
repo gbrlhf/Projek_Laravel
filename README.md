@@ -11,7 +11,7 @@
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# 🎓 UKM-App – Aplikasi Manajemen Unit Kegiatan Mahasiswa
+# 🎓 UKM-App – Aplikasi Data Anggota UKM
 
 ![Laravel](https://img.shields.io/badge/Laravel-12.33-ff2d20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.2+-777bb4?style=flat-square&logo=php&logoColor=white)

@@ -56,7 +56,7 @@ Tampilan antarmuka yang sederhana dan responsif menggunakan **Bootstrap 5**.
   <img src="public/screenshots/ukm-list1.png" width="45%">
   <img src="public/screenshots/ukm-list2.png" width="45%">
   <br>
-  <em>Halaman Login dan Daftar UKM</em>
+  <em>Halaman Login dan Dashboard UKM</em>
 </p>
 
 ---
